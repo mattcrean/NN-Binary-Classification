@@ -10,6 +10,7 @@ This project was completed as part of a university scientific computing assignme
 - Compared training approaches and discussed computational complexity (see report)
 
 ## Repository structure
-- `src/` — task implementations and experiments
-- `include/` — supporting headers used by the implementation
-- `docs/` — project specification and write-up/report
+- `src/` - task implementations and experiments
+- `include/` - supporting headers used by the implementation
+- `docs/` - project specification and write-up/report
+- `dat/` - data used in training
